@@ -12,5 +12,5 @@ everyone.
 - **Python** - For performing data analysis and generating financial insights.
 - **Clerk** - For secure user authentication and authorization (e.g., login via Google or Facebook).
 
-- ## Demo
+## Demo
 - **Killed**
